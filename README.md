@@ -36,7 +36,7 @@ Xasena
  
     
 
-#### Thanks To
+### Thanks To
 
 <details close>
 <summary>Read More</summary>
@@ -45,6 +45,16 @@ Xasena
 
 * [`SPARKY`](https://github.com/A-S-W-I-N-S-P-A-R-K-Y)
 * [`LOKI`](https://github.com/Loki-xer)
+
+### External-Plugins
+
+<details close>
+<summary>Read More</summary>
+
+<br>
+
+
+* [`External PLUGINS`](https://github.com/Louis-XD/External-Plugins-Ezra)
 
  </details>
 
