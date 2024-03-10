@@ -13,7 +13,7 @@ Xasena
 
 2. Pair The Code.
        <br>
-<a href='https://ezra-web.onrender.com/pair' target="_blank"><img alt='PAIRCODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> 
+<a href='https://ezra-web.onrender.com/pair' target="_blank"><img alt='PAIRCODE' src='https://img.shields.io/badge/pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> 
 
 ***
 
