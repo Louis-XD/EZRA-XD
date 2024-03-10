@@ -12,7 +12,7 @@ Xasena
 <a href='https://ezra-web.onrender.com' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ***
-###Deploy
+### Deploy
 
 1. If You don't have a account in Heroku Create a account.
     <br>
