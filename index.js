@@ -92,7 +92,7 @@ async function Abhiy() {
           }
         }
       });
-      console.log(" 𝗘𝘇𝗿𝗮-𝗫𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬🔋");
+      console.log(" 𝗣𝗹𝘂𝗴𝗶𝗻𝘀 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆🧩");
 
       fs.readdirSync("./plugins").forEach((plugin) => {
         if (path.extname(plugin).toLowerCase() == ".js") {
